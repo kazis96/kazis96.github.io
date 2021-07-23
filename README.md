@@ -1,1 +1,0 @@
-larifaraz.github.io
