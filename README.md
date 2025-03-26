@@ -1,2 +1,2 @@
-# larifaraz.github.io
-GitHub PortFolio
+# kazis96.github.io
+GitHub Portfolio Website
